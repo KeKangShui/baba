@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\1\spring-boot\baba\baba\fck\fck.iml" filepath="D:\1\spring-boot\baba\baba\fck\fck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oscached/oscached.iml" filepath="$PROJECT_DIR$/oscached/oscached.iml" />
+      <module fileurl="file://D:\1\spring-boot\baba\baba\pic\pic.iml" filepath="D:\1\spring-boot\baba\baba\pic\pic.iml" />
+      <module fileurl="file://D:\1\spring-boot\baba\baba\picture\picture.iml" filepath="D:\1\spring-boot\baba\baba\picture\picture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webtest.iml" filepath="$PROJECT_DIR$/webtest.iml" />
+    </modules>
+  </component>
+</project>
